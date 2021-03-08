@@ -1,0 +1,45 @@
+
+----------------------------------------------------
+###Building name: SeoSeongWon
+###Width: 150
+###Length: 250
+###Height: 300
+###Number of Floors: 30.0
+###Number of Units: 20
+###Size of column: 24 by 30 inches
+###Tickness of Slab: 0.371
+###Number of Column: 60
+###Budget is enough? Impossible
+----------------------------------------------------
+###Building name: df
+###Width: 230
+###Length: 110
+###Height: 300
+###Number of Floors: 30.0
+###Number of Units: 8
+###Size of column: 24 by 30 inches
+###Tickness of Slab: 0.371
+###Number of Column: 40
+###Budget is enough? Possible
+----------------------------------------------------
+###Building name: sdf
+###Width: 300
+###Length: 120
+###Height: 80
+###Number of Floors: 8.0
+###Number of Units: 8
+###Size of column: 18 by 18 inches
+###Tickness of Slab: 0.333
+###Number of Column: 58
+###Budget is enough? Possible
+----------------------------------------------------
+###Building name: df
+###Width: 300
+###Length: 120
+###Height: 70
+###Number of Floors: 7.0
+###Number of Units: 8
+###Size of column: 18 by 18 inches
+###Tickness of Slab: 0.329
+###Number of Column: 58
+###Budget is enough? Impossible
